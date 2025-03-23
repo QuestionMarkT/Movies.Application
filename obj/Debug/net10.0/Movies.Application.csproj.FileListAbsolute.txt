@@ -1,0 +1,13 @@
+Y:\Safe\repos\Movies.Application\bin\Debug\net10.0\Movies.Application.deps.json
+Y:\Safe\repos\Movies.Application\bin\Debug\net10.0\Movies.Application.dll
+Y:\Safe\repos\Movies.Application\bin\Debug\net10.0\Movies.Application.pdb
+Y:\Safe\repos\Movies.Application\obj\Debug\net10.0\Movies.Application.csproj.AssemblyReference.cache
+Y:\Safe\repos\Movies.Application\obj\Debug\net10.0\Movies.Application.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Safe\repos\Movies.Application\obj\Debug\net10.0\Movies.Application.AssemblyInfoInputs.cache
+Y:\Safe\repos\Movies.Application\obj\Debug\net10.0\Movies.Application.AssemblyInfo.cs
+Y:\Safe\repos\Movies.Application\obj\Debug\net10.0\Movies.Application.csproj.CoreCompileInputs.cache
+Y:\Safe\repos\Movies.Application\obj\Debug\net10.0\Movies.Application.sourcelink.json
+Y:\Safe\repos\Movies.Application\obj\Debug\net10.0\Movies.Application.dll
+Y:\Safe\repos\Movies.Application\obj\Debug\net10.0\refint\Movies.Application.dll
+Y:\Safe\repos\Movies.Application\obj\Debug\net10.0\Movies.Application.pdb
+Y:\Safe\repos\Movies.Application\obj\Debug\net10.0\ref\Movies.Application.dll
